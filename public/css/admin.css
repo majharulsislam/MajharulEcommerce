@@ -1,0 +1,16 @@
+body{
+	background: url(../images/bg/loginbg.png);
+}
+
+.mmt-20{
+	margin-top: 20px;
+}
+
+.mmb-30{
+	margin-bottom: 30px;
+}
+
+.admin_login_area{
+	max-width: 850px;
+	margin: 120px auto 0;
+}
